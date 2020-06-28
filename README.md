@@ -1,5 +1,5 @@
 # Handwritten-Digit-Recognition-MNIST
-Recognizes handwritten digits using Keras and convnets
+Recognizes handwritten digits using Tensorflow Keras in Python
 
 Model training is done using MNIST dataset.
 The MNIST database of handwritten digits has a training set of 60,000 examples, and a test set of 10,000 examples. It is a subset of a larger set available from NIST.
