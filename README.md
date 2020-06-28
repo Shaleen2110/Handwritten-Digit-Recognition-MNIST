@@ -10,3 +10,4 @@ The original black and white (bilevel) images from NIST were size normalized to 
 For more info on the dataset, please refer:
 http://yann.lecun.com/exdb/mnist/
 
+The model is finally tested on my own handwritten digit and its performing pretty well
